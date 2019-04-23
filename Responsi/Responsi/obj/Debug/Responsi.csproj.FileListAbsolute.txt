@@ -1,0 +1,7 @@
+D:\NABNAB\Responsi\Responsi\Responsi\bin\Debug\Responsi.exe.config
+D:\NABNAB\Responsi\Responsi\Responsi\bin\Debug\Responsi.exe
+D:\NABNAB\Responsi\Responsi\Responsi\bin\Debug\Responsi.pdb
+D:\NABNAB\Responsi\Responsi\Responsi\obj\Debug\Responsi.csprojAssemblyReference.cache
+D:\NABNAB\Responsi\Responsi\Responsi\obj\Debug\Responsi.csproj.CoreCompileInputs.cache
+D:\NABNAB\Responsi\Responsi\Responsi\obj\Debug\Responsi.exe
+D:\NABNAB\Responsi\Responsi\Responsi\obj\Debug\Responsi.pdb
